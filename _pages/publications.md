@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,7 +13,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 [**Graph Learning-based Generative Design for Resilience of Interdependent Network Systems**](https://arxiv.org/abs/2207.00931) <br>
 **Jiaxin Wu** and Pingfeng Wang <br>
