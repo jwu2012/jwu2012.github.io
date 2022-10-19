@@ -7,53 +7,36 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Industrial and Systems Engineering (in progress)
+* M.S. in Mechanical Engineering, University of Illinois at Urbana-Champaign
+* B.S. in Mechanical Engineering, University of Wisconsin at Madison
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Meta, Software Engineer Intern (ML), Menlo Park, CA, Summer 2022
+  <!-- * Project:
+  * Duties included: Tagging issues -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Anthem Blue Cross Blue Shield, Data Scientist Intern, Chicago, IL, Summer 2021
+
+* MHM Properties, Consultant Intern, Champaign, IL, Spring 2019
+
+* GE Aviation, Operation Management Leadership Program (OMLP), Suzhou, China, Summer 2017
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages**: Python (PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, NetworkX), C++, PHP, MySQL
+* **Tools**: Hive, Presto, PySpark, PyTorch-Geometric, Git, Docker, AWS (S3, EC2), Flask, Tableau, Shell, Gurobi
+* **Deep Learning Architectures**: CNN, RNN/LSTM, BERT, DeepFM, GNN, CART, Graphical Model, Regression
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* William A. Chittenden Fellowship 2021-2022
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for *Reliability Engineering & System Safety*, *Petroleum Science*, and *Utilities Policy*
