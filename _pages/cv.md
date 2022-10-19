@@ -18,14 +18,16 @@ Education
 Work experience
 ======
 * Meta, Software Engineer Intern (ML), Menlo Park, CA, Summer 2022
-  <!-- * Project:
-  * Duties included: Tagging issues -->
+  * Project: End-to-End Machine Learning Workflow for Targeting Marketplace Users
 
 * Anthem Blue Cross Blue Shield, Data Scientist Intern, Chicago, IL, Summer 2021
+  * Project: AI Doc: a CV and NLP-based Solution for Automating Document Processing
 
 * MHM Properties, Consultant Intern, Champaign, IL, Spring 2019
+  * Project: Machine Learning-powered Pricing Strategy for Rental Units
 
 * GE Aviation, Operation Management Leadership Program (OMLP), Suzhou, China, Summer 2017
+  * Project: Lean Manufacturing for Polymer Processing of Airbus Aircraft
   
 Skills
 ======
