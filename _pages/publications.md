@@ -37,4 +37,10 @@ Accepted to *ASME Journal of Mechanical Design*, 2022 <br>
 
 Conference Talks
 ===
+[**Co-design optimization of a combined heat and power hybrid energy system**](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2021/85383/V03AT03A028/1128287) <br>
+Dongze Li, **Jiaxin Wu**, Jie Zhang, and Pingfeng Wang <br>
+*ASME IDETC/CIE*, 2021 <br>
 
+[**Selection of Post-Disruption Recovery Strategy for Resilience**](https://www.proquest.com/docview/2511382622?pq-origsite=gscholar&fromopenview=true) <br>
+**Jiaxin Wu** and Pingfeng Wang <br>
+*IISE Annual Conference*, 2019 <br>
