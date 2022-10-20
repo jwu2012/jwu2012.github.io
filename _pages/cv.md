@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-
 ---
+
 Education
 ======
 * Ph.D. in Industrial and Systems Engineering (in progress)
