@@ -17,7 +17,7 @@ author_profile: true
 
 [**Graph Learning-based Generative Design for Resilience of Interdependent Network Systems**](https://arxiv.org/abs/2207.00931) <br>
 **Jiaxin Wu** and Pingfeng Wang <br>
-Accepted to *ASME Journal of Mechanical Design*, 2022 <br>
+*ASME Journal of Mechanical Design*, 2022 <br>
 
 [**Spectral Graph Clustering for Intentional Islanding Operations in Resilient Hybrid Energy Systems**](https://arxiv.org/abs/2203.06579) <br>
 **Jiaxin Wu**, Xin Chen, Sobhan Badakhshan, Jie Zhang, and Pingfeng Wang <br>
